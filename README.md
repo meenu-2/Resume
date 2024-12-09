@@ -1,4 +1,4 @@
-# Resume of Meenu M S
+# Resume
 
 This project contains the HTML and CSS code for my professional resume. The design replicates a clean and structured layout suitable for both digital and printed formats.
 
